@@ -230,4 +230,4 @@ This repository serves as the official landing page for Windows Media Player 10.
 **Get the most recent version of Windows Media Player 10 today!**
 
 ---
-**Last updated:** 2026-09-13 16:40:53 UTC
+**Last updated:** 2026-09-13 19:01:05 UTC
